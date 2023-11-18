@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BenediktWestphal
+- 👀 I’m interested in Game development
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Java
+- 💞️ I’m looking to collaborate on my Game-Projekt ALine
+- 📫 How to reach me per email: Benedikt_westphal@web.de
